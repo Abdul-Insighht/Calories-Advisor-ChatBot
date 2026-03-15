@@ -1,86 +1,87 @@
-# Calories Advisor
+﻿<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Calories%20Advisor%20ChatBot&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+</div>
 
-Calories Advisor is a Python-based application designed to help users track and manage their calorie intake.  
-It provides functionality to analyze food items and calculate calorie values with an easy-to-use interface.
+# Calories-Advisor-ChatBot
 
----
-
-## 🚀 Features
-- Track daily calorie intake
-- Simple and intuitive app interface (`app.py`)
-- Environment variable support (`.env`)
-- Dependency management via `requirements.txt`
+AI-powered nutrition and calories advisor chatbot that provides personalized dietary guidance using generative AI.
 
 ---
 
-## 🛠 Installation & Setup
+## Project Status: âœ… COMPLETE & READY FOR DEPLOYMENT
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/Calories_Advisor.git
-   cd Calories_Advisor
-   ```
-
-2. **Create a virtual environment (recommended):**
-   ```bash
-   python -m venv venv
-   source venv/bin/activate   # On Linux/Mac
-   venv\Scripts\activate      # On Windows
-   ```
-
-3. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Setup environment variables:**
-   - Rename `.env.example` (if exists) to `.env`
-   - Add your required keys inside `.env`
+![GitHub stars](https://img.shields.io/github/stars/Abdul-Insighht/=social)
+![GitHub forks](https://img.shields.io/github/forks/Abdul-Insighht/=social)
 
 ---
 
-## ▶️ Running the Application
-```bash
-python app.py
+## ðŸ› ï¸ Tech Stack
+
+```
+Python, Google Gemini, Streamlit, LangChain
 ```
 
 ---
 
-## 📦 Requirements
-All dependencies are listed in `requirements.txt`.
+## ðŸš€ Getting Started
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/Abdul-Insighht/Calories-Advisor-ChatBot.git
+cd Calories-Advisor-ChatBot
+```
+
+2. **Install dependencies**
+```bash
+pip install -r requirements.txt
+```
+
+3. **Run the project**
+```bash
+python main.py
+```
 
 ---
 
-## 🤝 Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## â­ Quick Links
+
+â­ [Star this repo](https://github.com/Abdul-Insighht/Calories-Advisor-ChatBot) â€¢ ðŸ› [Report Bug](https://github.com/Abdul-Insighht/Calories-Advisor-ChatBot/issues) â€¢ ðŸ’¡ [Request Feature](https://github.com/Abdul-Insighht/Calories-Advisor-ChatBot/issues)
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License.
-
+Made with â¤ï¸ using Python & AI Technologies â€” Demonstration by **Abdul-Insighht** - Data Science Specialist | AI Agent & Agentic AI Developer
 
 ---
 
-## 📬 Contact
+## ðŸ‘¤ Author
 
-**Hafiz Abdul Rehman**
+<table>
+<tr>
+<td>
 
-- 📧 Email: hafizrehman3321@gmail.com
-- 💼 LinkedIn: [Hafiz Abdul Rehman](https://linkedin.com/in/hafiz-abdul-rehman-9990ab329)
-- 🐙 GitHub: [Abdul-Insighht](https://github.com/Abdul-Insighht)
+**Hafiz Abdul Rehman**  
+[Abdul-Insighht](https://github.com/Abdul-Insighht) Â· he/him  
+**Data Science Specialist | AI Agent & Agentic AI Developer**
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-Abdul--Insighht-181717?style=flat-square&logo=github)](https://github.com/Abdul-Insighht)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hafiz-abdul-rehman-9990ab329/)
 
-## 🌟 Show Your Support
-
-If you find this project helpful, please consider:
-
-- ⭐ **Starring** this repository
-- 🔄 **Sharing** with others
-- 🐛 **Reporting** issues
-- 💡 **Suggesting** improvements
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">Made with ❤️ by <b>Hafiz Abdul Rehman</b></p>
+## ðŸ“„ License
+
+This project is licensed under the **MIT License**.
+
+---
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
+
+<div align="center">
+  <sub>â­ï¸ From <a href="https://github.com/Abdul-Insighht">Abdul-Insighht</a> â€” Passionate about AI, ML, and solving real-world problems</sub>
+</div>
